@@ -22,6 +22,14 @@ It includes attributes such as application name,Cost,app_type,supported_language
 - **Features:** 8 columns
 
 ## 🛠️ Technology Stack
+| Category | Technology |
+|:---------|:-----------|
+| Programming Language | Python |
+| Development Environment | Jupyter Notebook |
+| Data Collection | Playwright | 
+| Data Manipulation | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn , Plotly |
+| Data Storage | SQL Server |
 
 ## 🖥️ Dashboard Preview
 
@@ -32,4 +40,8 @@ It includes attributes such as application name,Cost,app_type,supported_language
 ## 🚀 Future Improvements
 
 ## 👥 Team Members
-
+| Member_Name | Responsibilities |
+|:---------|:-----------|
+| **Rahma Ahmed** | • Web Scraping <br> • EDA & Analysis    • Data Visualization <br> • Project Documentation    • Discussion Presentation |
+| **Faten Ahmed** | • Team Leader <br> • Data Cleaning    • EDA & Analysis <br> • Data Visualization    • Data Storage (SQL Server) <br> • Github.README.md    • Discussion Presentation |
+| **Rahma Mohammed**| • Statistical Analysis <br> • EDA & Analysis <br> • Data Visualization    |
