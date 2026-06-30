@@ -18,7 +18,7 @@ It includes attributes such as application name,Cost,app_type,supported_language
 - **Source:** AlternativeTo Website
 - **Collection Method:** Web Scraping
 - **Format:** CSV
-- **Records:** XXXX software applications
+- **Records:** 3742  software applications
 - **Features:** 8 columns
 
 ## 🛠️ Technology Stack
