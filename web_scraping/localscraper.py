@@ -4,7 +4,7 @@ import asyncio
 import random
 import tempfile
 from playwright.async_api import async_playwright
-from config import (BASE_URL, OUTPUT_DIR, OUTPUT_FILE, MAX_RETRIES, RETRY_DELAY, START_PAGE, END_PAGE, BATCH_SIZE)
+from web_scraping.config import (BASE_URL, OUTPUT_DIR, OUTPUT_FILE, MAX_RETRIES, RETRY_DELAY, START_PAGE, END_PAGE, BATCH_SIZE)
 
 async def scrape_page_links(page, page_number):
     for attempt in range(1, MAX_RETRIES + 1):

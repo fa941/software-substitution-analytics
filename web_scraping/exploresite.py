@@ -1,5 +1,5 @@
 import random
-from config import BASE_URL
+from web_scraping.config import BASE_URL
 from playwright.sync_api import sync_playwright
 
 with sync_playwright() as p:
