@@ -50,8 +50,11 @@ The analysis shows that Free and Freemium are the dominant pricing models, while
 
 🖥️ Platforms :-
 
+The analysis reveals that Web is the most widely supported platform, followed by Desktop and Mobile. Among desktop operating systems, macOS has the highest number of supported applications, followed by Windows and Linux. Furthermore, Free and Freemium pricing models are the most common on both macOS and Linux, suggesting that platform choice is closely associated with software pricing strategies.
 
 🌍 Geographic Distribution :-
+
+The analysis shows that software development is primarily concentrated in North America and Europe. At the country level, the United States leads with 876 applications, followed by the United Kingdom and Germany. In terms of application categories, AI applications dominate in North America and Asia, while Productivity applications are the most prevalent in Europe and South America. These findings suggest that developers should consider regional market preferences when selecting their target market, as software demand and application trends vary across geographic regions.
 
 ## 🚀 Recommendations 
    ##### 1- Evaluate market competition before selecting an application category; highly competitive categories require clear differentiation.
