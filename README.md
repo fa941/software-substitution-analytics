@@ -11,7 +11,7 @@ The project helps developers, companies, researchers, and end users compare soft
 ## 🎯 Objectives 
 
 ## 🏗️ Architecture Overview
-
+![pipline_image](./pipline_image.png)
 ## 🗃️ Dataset
 The dataset was collected from the AlternativeTo website through web scraping and contains detailed information about software applications.   
 It includes attributes such as application name,Cost,app_type,supported_languages,origin ... etc
