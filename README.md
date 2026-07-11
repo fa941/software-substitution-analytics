@@ -18,8 +18,8 @@ It includes attributes such as application name,Cost,app_type,supported_language
 - **Source:** AlternativeTo Website
 - **Collection Method:** Web Scraping
 - **Format:** CSV
-- **Records:** 3742  software applications
-- **Features:** 8 columns
+- **Records:** 3712  software applications
+- **Features:** 16 columns
 
 ## 🛠️ Technology Stack
 | Category | Technology |
@@ -27,21 +27,24 @@ It includes attributes such as application name,Cost,app_type,supported_language
 | Programming Language | Python |
 | Development Environment | Jupyter Notebook |
 | Data Collection | Playwright, requests, python-dotenv| 
-| Data Manipulation | Pandas, NumPy |
-| Data Visualization | Matplotlib, Seaborn , Plotly |
+| Data Manipulation | Pandas, NumPy ,pycountry_convert ,pyodbc|
+| Data Visualization | Matplotlib, Seaborn , Plotly ,streamlit |
 | Data Storage | SQL Server |
 
 ## 🖥️ Dashboard Preview
 
-## 🌟 Key Features
-
 ## 💡 Results & Insights
 
-## 🚀 Future Improvements
+## 🚀 Recommendations 
+   ##### 1- Evaluate market competition before selecting an application category; highly competitive categories require clear differentiation.
+   ##### 2- Align the pricing model with the target platform (Web/Mobile → Free or Freemium, Desktop → Pay Once).
+   ##### 3- Choose the licensing model based on business goals (Open Source for wider adoption, Proprietary for direct revenue).
+   ##### 4- Support multiple languages to increase market reach and gain a competitive advantage.
+   ##### 5- Consider regional market differences when targeting users, as application preferences vary across geographic regions.
 
 ## 👥 Team Members
 | Member_Name | Responsibilities |
 |:---------|:-----------|
 | **Rahma Ahmed** | • Web Scraping <br> • EDA & Analysis    • Data Visualization <br> • Project Documentation    • Discussion Presentation |
 | **Faten Ahmed** | • Team Leader <br> • Data Cleaning    • EDA & Analysis <br> • Data Visualization    • Data Storage (SQL Server) <br> • Github.README.md    • Discussion Presentation |
-| **Rahma Mohammed**| • Statistical Analysis <br> • EDA & Analysis <br> • Data Visualization    |
+| **Rahma Mohammed**| • Statistical Analysis <br> • EDA & Analysis |
