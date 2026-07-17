@@ -17,7 +17,7 @@ The project helps developers, companies, researchers, and end users compare soft
 - Analyze the popularity of different application categories.
 - Generate actionable insights to support developers and business decision-makers.
 ## 🏗️ Architecture Overview
-![Pipline](Pipline.png)
+ ![Pipeline](Pipline.png)
 ## 🗃️ Dataset
 The dataset was collected from the AlternativeTo website through web scraping and contains detailed information about software applications.   
 It includes attributes such as application name,Cost,app_type,supported_languages,origin ... etc
@@ -31,7 +31,8 @@ It includes attributes such as application name,Cost,app_type,supported_language
 | Category | Technology |
 |:---------|:-----------|
 | Programming Language | Python |
-| Development Environment | Jupyter Notebook |
+| Development Environment | Jupyter Notebook |<img width="1264" height="842" alt="Pipline" src="https://github.com/user-attachments/assets/e3f1a42f-877a-4a36-93fc-a8500dbade77" />
+
 | Data Collection | Playwright, requests, python-dotenv| 
 | Data Manipulation | Pandas, NumPy ,pycountry_convert ,pyodbc|
 | Data Visualization | Matplotlib, Seaborn , Plotly ,streamlit |
