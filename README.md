@@ -37,8 +37,6 @@ It includes attributes such as application name,Cost,app_type,supported_language
 | Data Visualization | Matplotlib, Seaborn , Plotly ,streamlit |
 | Data Storage | SQL Server |
 
-## 🖥️ Dashboard Preview
-
 ## 💡 Results & Insights
 📌 Application Categories :- 
 
@@ -66,6 +64,6 @@ The analysis shows that software development is primarily concentrated in North 
 ## 👥 Team Members
 | Member_Name | Responsibilities |
 |:---------|:-----------|
-| **Rahma Ahmed** | • Web Scraping <br> • EDA & Analysis    • Data Visualization <br> • Project Documentation    • Discussion Presentation |
+| **Rahma Ahmed** | • Web Scraping <br> • EDA & Analysis    <br> • Project Documentation    |
 | **Faten Ahmed** | • Team Leader <br> • Data Cleaning    • EDA & Analysis <br> • Data Visualization    • Data Storage (SQL Server) <br> • Github.README.md    • Discussion Presentation |
-| **Rahma Mohammed**| • Statistical Analysis <br> • EDA & Analysis |
+| **Rahma Mohammed**| • EDA & Analysis |
