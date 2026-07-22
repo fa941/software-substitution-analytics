@@ -31,11 +31,10 @@ It includes attributes such as application name,Cost,app_type,supported_language
 | Category | Technology |
 |:---------|:-----------|
 | Programming Language | Python |
-| Development Environment | Jupyter Notebook |<img width="1264" height="842" alt="Pipline" src="https://github.com/user-attachments/assets/e3f1a42f-877a-4a36-93fc-a8500dbade77" />
-
+| Development Environment | Jupyter Notebook |
 | Data Collection | Playwright, requests, python-dotenv| 
 | Data Manipulation | Pandas, NumPy ,pycountry_convert ,pyodbc|
-| Data Visualization | Matplotlib, Seaborn , Plotly ,streamlit |
+| Data Visualization | Power BI |
 | Data Storage | SQL Server |
 
 ## 💡 Results & Insights
